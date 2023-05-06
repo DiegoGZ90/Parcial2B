@@ -1,0 +1,27 @@
+# ninja log v5
+0	602	7050734693577777	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+603	772	7050734695251136	Lectura_de_archivos.exe	130c16bf8a73e538
+5	450	7050735441812752	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+451	591	7050735443179976	Lectura_de_archivos.exe	130c16bf8a73e538
+3	413	7050736277643089	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+413	574	7050736279218644	Lectura_de_archivos.exe	130c16bf8a73e538
+3	406	7050738204936622	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+406	559	7050738206428624	Lectura_de_archivos.exe	130c16bf8a73e538
+6	461	7050743491126154	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+461	601	7050743492476684	Lectura_de_archivos.exe	130c16bf8a73e538
+5	414	7050744802039400	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+415	557	7050744803443173	Lectura_de_archivos.exe	130c16bf8a73e538
+9	558	7050746735559936	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+559	705	7050746736973868	Lectura_de_archivos.exe	130c16bf8a73e538
+7	441	7050746886311832	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+442	591	7050746887768870	Lectura_de_archivos.exe	130c16bf8a73e538
+4	410	7050747930636296	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+411	580	7050747932275878	Lectura_de_archivos.exe	130c16bf8a73e538
+3	372	7050748523403665	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+373	529	7050748524927346	Lectura_de_archivos.exe	130c16bf8a73e538
+3	455	7050749740230320	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+455	590	7050749741535082	Lectura_de_archivos.exe	130c16bf8a73e538
+4	413	7050756043698119	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+414	591	7050756045464204	Lectura_de_archivos.exe	130c16bf8a73e538
+9	513	7050757696032411	CMakeFiles/Lectura_de_archivos.dir/main.cpp.obj	dd9908b8e680c875
+514	706	7050757697903476	Lectura_de_archivos.exe	130c16bf8a73e538
