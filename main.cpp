@@ -19,9 +19,7 @@ int main (){
     ofstream archivo2("documento.txt");
     archivo2<< texto << "nueva linea de texto ";
         system("pause");
-
-        cout<<"Hola";
-
+        
 
 }
 
